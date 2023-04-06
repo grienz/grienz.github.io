@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on grienz</title>
-    <link>https://grienz.github.io/grienz.dev/categories/</link>
+    <link>https://grienz.dev/categories/</link>
     <description>Recent content in Categories on grienz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://grienz.github.io/grienz.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://grienz.dev/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
