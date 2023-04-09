@@ -4,7 +4,49 @@
     <title>Tags on grienz</title>
     <link>https://grienz.dev/tags/</link>
     <description>Recent content in Tags on grienz</description>
+    <image>
+      <title>grienz</title>
+      <url>https://grienz.dev</url>
+      <link>https://grienz.dev</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://grienz.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2023 23:46:45 +0300</lastBuildDate><atom:link href="https://grienz.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogging</title>
+      <link>https://grienz.dev/tags/blogging/</link>
+      <pubDate>Sun, 09 Apr 2023 23:46:45 +0300</pubDate>
+      
+      <guid>https://grienz.dev/tags/blogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://grienz.dev/tags/development/</link>
+      <pubDate>Sun, 09 Apr 2023 23:46:45 +0300</pubDate>
+      
+      <guid>https://grienz.dev/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fast</title>
+      <link>https://grienz.dev/tags/fast/</link>
+      <pubDate>Sun, 09 Apr 2023 23:46:45 +0300</pubDate>
+      
+      <guid>https://grienz.dev/tags/fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://grienz.dev/tags/go/</link>
+      <pubDate>Sun, 09 Apr 2023 23:46:45 +0300</pubDate>
+      
+      <guid>https://grienz.dev/tags/go/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

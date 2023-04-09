@@ -4,7 +4,22 @@
     <title>Categories on grienz</title>
     <link>https://grienz.dev/categories/</link>
     <description>Recent content in Categories on grienz</description>
+    <image>
+      <title>grienz</title>
+      <url>https://grienz.dev</url>
+      <link>https://grienz.dev</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://grienz.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2023 23:46:45 +0300</lastBuildDate><atom:link href="https://grienz.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development</title>
+      <link>https://grienz.dev/categories/development/</link>
+      <pubDate>Sun, 09 Apr 2023 23:46:45 +0300</pubDate>
+      
+      <guid>https://grienz.dev/categories/development/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://grienz.dev/docs/</loc>
-    <lastmod>2023-04-06T13:20:35+03:00</lastmod>
-  </url><url>
-    <loc>https://grienz.dev/</loc>
-    <lastmod>2023-04-06T13:20:35+03:00</lastmod>
-  </url><url>
-    <loc>https://grienz.dev/docs/test/</loc>
-    <lastmod>2023-04-06T13:20:35+03:00</lastmod>
-  </url><url>
-    <loc>https://grienz.dev/categories/</loc>
-  </url><url>
-    <loc>https://grienz.dev/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://grienz.dev/en/sitemap.xml</loc>
+    
+      <lastmod>2023-04-09T23:46:45+03:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://grienz.dev/tr/sitemap.xml</loc>
+    
+      <lastmod>2023-04-09T23:46:50+03:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

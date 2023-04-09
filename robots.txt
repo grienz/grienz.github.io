@@ -1,0 +1,32 @@
+User-agent: *
+
+Disallow: /about/
+
+Disallow: /tags/blogging/
+
+Disallow: /categories/
+
+Disallow: /tags/development/
+
+Disallow: /categories/development/
+
+Disallow: /tags/fast/
+
+Disallow: /posts/first/
+
+Disallow: /tags/go/
+
+Disallow: /series/go-web-dev/
+
+Disallow: /
+
+Disallow: /posts/
+
+Disallow: /series/
+
+Disallow: /tags/
+
+Disallow: /archives/
+
+Disallow: /search/
+
