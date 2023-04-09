@@ -1,4 +1,234 @@
-baseURL: "https://grienz.dev/"
+baseURL: "https://grienz.dev"
 languageCode: en-us
+defaultContentLanguage: en
 title: grienz
 theme: PaperMod
+paginate: 5
+copyright: # custom copyright
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+# googleAnalytics:
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+languages:
+    en:
+        languageName: ":uk:"
+        languageAltTitle: English
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+
+        menu:
+            main:
+                - name: Blog
+                  url: posts
+                  weight: 1
+                - name: About
+                  url: about
+                  weight: 5
+                - name: Search
+                  url: search
+                  weight: 10
+                - name: Tags
+                  url: tags
+                  weight: 15
+                - name: Categories
+                  url: categories
+                  weight: 20
+                - name: Archive
+                  url: archives
+                  weight: 25
+                - name: Series
+                  url: series
+                  weight: 30
+
+    tr:
+        languageName: ":tr:"
+        languageAltTitle: Türkçe
+        weight: 2
+        title: grienz
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        profileMode:
+            enabled: true
+            title: Güray ALIN
+            imageUrl: "https://avatars.githubusercontent.com/u/99608413"
+            imageTitle: #
+            imageWidth: 300
+            imageHeight: 300
+            subtitle: Yazılım geliştirici - Öğrenci
+            buttons: #
+
+        menu:
+            main:
+                - name: Blog
+                  url: posts
+                  weight: 1
+                - name: Hakkımda
+                  url: about
+                  weight: 5
+                - name: Ara
+                  url: search
+                  weight: 10
+                - name: Etiketler
+                  url: tags
+                  weight: 15
+                - name: Kategoriler
+                  url: categories
+                  weight: 20
+                - name: Arşiv
+                  url: archives
+                  weight: 25
+                - name: Seriler
+                  url: series
+                  weight: 30
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "grienz.dev - Software developer blog."
+    author: ["grienz"] # multiple authors
+    defaultTheme: auto
+    # disableFingerprinting: true
+    # disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: true
+    # disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: true
+    ShowToc: false
+    # comments: false
+    images: [""]
+
+    profileMode:
+        enabled: true
+        title: Güray ALIN
+        imageUrl: "https://avatars.githubusercontent.com/u/99608413"
+        imageTitle: #
+        imageWidth: 300
+        imageHeight: 300
+        subtitle: Software developer - Student
+        buttons: #
+
+    homeInfoParams:
+        Title: "Güray ALIN"
+        Content: #
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/grienz"
+        - name: twitter
+          url: "https://twitter.com/gurayalin"
+        - name: mastodon
+          url: "https://mastodon.social/@grienz"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/gurayalin/"
+        - name: email
+          url: "mailto:grienzdev@gmail.com"
+        - name: matrix
+          url: "https://matrix.to/#/@grienz:matrix.org"
+        - name: medium
+          url: "https://medium.com/@grienz"
+        - name: key
+          url: "https://keys.openpgp.org/vks/v1/by-fingerprint/9324C9DA760AD07327F66357D14CBBDF576D93C0"
+        - name: rss
+          url: "index.xml"
+
+
+    editPost:
+        URL: "https://github.com/grienz/grienz.dev/tree/master/content"
+        Text: "Edit" # edit text
+        appendFilePath: true # to append file path to Edit link
+
+    # label:
+    #     text: "Home"
+    #     icon: icon.png
+    #     iconHeight: 35
+
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "XYZabc"
+
+    assets:
+        disableHLJS: false
+        favicon: "/favicon.ico"
+        favicon16x16: "/favicon-16x16.png"
+        favicon32x32: "/favicon-32x32.png"
+        apple_touch_icon: "/apple-touch-icon.png"
+        safari_pinned_tab: "/safari-pinned-tab.svg"
+
+    # cover:
+    #     hidden: true # hide everywhere but not in structured data
+    #     hiddenInList: true # hide on list pages and home
+    #     hiddenInSingle: true # hide on single page
+
+    fuseOpts:
+         isCaseSensitive: false
+         shouldSort: true
+         location: 0
+         distance: 1000
+         threshold: 0.4
+         minMatchCharLength: 0
+         keys: ["title", "permalink", "summary", "content"]
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        noClasses: false
+        anchorLineNos: false
+        codeFences: true
+        guessSyntax: true
+        lineNos: false
+        style: monokai
+        noHl: false
+        hl_Lines: ""
+        hl_inline: false
+        tabWidth: 4
+        lineAnchors: ""
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
