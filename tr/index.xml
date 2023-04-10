@@ -27,7 +27,7 @@
       <pubDate>Sun, 09 Apr 2023 23:46:50 +0300</pubDate>
       
       <guid>https://grienz.dev/tr/posts/first/</guid>
-      <description>İlk gönderi HUGO ile yazdığım ilk gönderi.
+      <description>Hugo ile yeni blog sayfam.
 func main() { fmt.Println(&amp;#34;merhaba&amp;#34;) } </description>
     </item>
     

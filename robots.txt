@@ -10,15 +10,15 @@ Disallow: /tags/development/
 
 Disallow: /categories/development/
 
-Disallow: /tags/fast/
-
 Disallow: /posts/first/
 
 Disallow: /tags/go/
 
-Disallow: /series/go-web-dev/
-
 Disallow: /
+
+Disallow: /tags/hugo/
+
+Disallow: /series/hugo-blog/
 
 Disallow: /posts/
 

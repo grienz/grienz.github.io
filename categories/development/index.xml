@@ -18,7 +18,7 @@
       <pubDate>Sun, 09 Apr 2023 23:46:45 +0300</pubDate>
       
       <guid>https://grienz.dev/posts/first/</guid>
-      <description>First Post Write hugo with first post.
+      <description>Hugo with new blog page.
 func main() { fmt.Println(&amp;#34;hello&amp;#34;) } </description>
     </item>
     

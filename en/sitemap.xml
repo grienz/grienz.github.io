@@ -67,19 +67,6 @@
                 href="https://grienz.dev/categories/development/"
                 />
   </url><url>
-    <loc>https://grienz.dev/tags/fast/</loc>
-    <lastmod>2023-04-09T23:46:45+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://grienz.dev/tr/tags/fast/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://grienz.dev/tags/fast/"
-                />
-  </url><url>
     <loc>https://grienz.dev/posts/first/</loc>
     <lastmod>2023-04-09T23:46:45+03:00</lastmod>
     <xhtml:link
@@ -106,19 +93,6 @@
                 href="https://grienz.dev/tags/go/"
                 />
   </url><url>
-    <loc>https://grienz.dev/series/go-web-dev/</loc>
-    <lastmod>2023-04-09T23:46:45+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://grienz.dev/tr/series/go-web-dev/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://grienz.dev/series/go-web-dev/"
-                />
-  </url><url>
     <loc>https://grienz.dev/</loc>
     <lastmod>2023-04-09T23:46:45+03:00</lastmod>
     <xhtml:link
@@ -130,6 +104,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://grienz.dev/"
+                />
+  </url><url>
+    <loc>https://grienz.dev/tags/hugo/</loc>
+    <lastmod>2023-04-09T23:46:45+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://grienz.dev/tr/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grienz.dev/tags/hugo/"
+                />
+  </url><url>
+    <loc>https://grienz.dev/series/hugo-blog/</loc>
+    <lastmod>2023-04-09T23:46:45+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://grienz.dev/tr/series/hugo-blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grienz.dev/series/hugo-blog/"
                 />
   </url><url>
     <loc>https://grienz.dev/posts/</loc>

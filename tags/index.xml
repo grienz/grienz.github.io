@@ -31,20 +31,20 @@
     </item>
     
     <item>
-      <title>fast</title>
-      <link>https://grienz.dev/tags/fast/</link>
-      <pubDate>Sun, 09 Apr 2023 23:46:45 +0300</pubDate>
-      
-      <guid>https://grienz.dev/tags/fast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Go</title>
       <link>https://grienz.dev/tags/go/</link>
       <pubDate>Sun, 09 Apr 2023 23:46:45 +0300</pubDate>
       
       <guid>https://grienz.dev/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://grienz.dev/tags/hugo/</link>
+      <pubDate>Sun, 09 Apr 2023 23:46:45 +0300</pubDate>
+      
+      <guid>https://grienz.dev/tags/hugo/</guid>
       <description></description>
     </item>
     
