@@ -1,10 +1,10 @@
 baseURL: "https://grienz.dev"
 languageCode: en-us
 defaultContentLanguage: en
-title: grienz
+title: "grienz"
 theme: PaperMod
 paginate: 5
-copyright: # custom copyright
+# copyright: # custom copyright
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -13,7 +13,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-# googleAnalytics:
+googleAnalytics: G-Y34MCFHW3M
 
 minify:
     disableXML: true
@@ -49,15 +49,12 @@ languages:
                 - name: Tags
                   url: tags
                   weight: 15
-                - name: Categories
-                  url: categories
+                - name: Series
+                  url: series
                   weight: 20
                 - name: Archive
                   url: archives
                   weight: 25
-                - name: Series
-                  url: series
-                  weight: 30
 
     tr:
         languageName: ":tr:"
@@ -70,11 +67,11 @@ languages:
           series: series
         profileMode:
             enabled: true
-            title: Güray ALIN
-            imageUrl: "https://avatars.githubusercontent.com/u/99608413"
+            title: "Güray ALIN"
+            imageUrl: "/images/profile.jpg"
             imageTitle: #
-            imageWidth: 300
-            imageHeight: 300
+            imageWidth: 324
+            imageHeight: 432
             subtitle: Yazılım geliştirici - Öğrenci
             buttons: #
 
@@ -92,19 +89,16 @@ languages:
                 - name: Etiketler
                   url: tags
                   weight: 15
-                - name: Kategoriler
-                  url: categories
+                - name: Seriler
+                  url: series
                   weight: 20
                 - name: Arşiv
                   url: archives
                   weight: 25
-                - name: Seriler
-                  url: series
-                  weight: 30
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "grienz.dev - Software developer blog."
+    description: "Güray ALIN - Software developer blog."
     author: ["grienz"] # multiple authors
     defaultTheme: auto
     # disableFingerprinting: true
@@ -124,10 +118,10 @@ params:
     profileMode:
         enabled: true
         title: Güray ALIN
-        imageUrl: "https://avatars.githubusercontent.com/u/99608413"
+        imageUrl: "/images/profile.jpg"
         imageTitle: #
-        imageWidth: 300
-        imageHeight: 300
+        imageWidth: 324
+        imageHeight: 432
         subtitle: Software developer - Student
         buttons: #
 
@@ -161,14 +155,14 @@ params:
         Text: "Edit" # edit text
         appendFilePath: true # to append file path to Edit link
 
-    # label:
-    #     text: "Home"
-    #     icon: icon.png
-    #     iconHeight: 35
+    label:
+     text: "grienz.dev"
+     icon: "logo.png"
+     iconHeight: 32
 
-    # analytics:
-    #     google:
-    #         SiteVerificationTag: "XYZabc"
+    analytics:
+      google:
+        SiteVerificationTag: "k6-7cj3B6NX4LQMxD2f7XXMd_SFoygv3vQxsJp6XdhQ"
 
     assets:
         disableHLJS: false

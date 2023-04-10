@@ -6,25 +6,23 @@ categories:
 - Development
 project_url: https://github.com/gohugoio/hugo
 series:
-- Go Web Dev
+- HUGO BLOG
 slug: first
 tags:
 - Development
+- Hugo
 - Go
-- fast
 - Blogging
 cover:
-    image: "#"
+    image: "https://raw.githubusercontent.com/gohugoio/gohugoioTheme/master/static/images/hugo-logo-wide.svg"
     # can also paste direct link from external site
-    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-    alt: ""
+    # ex. https://example.com/image.png
+    alt: "hugo"
     caption: ""
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-## İlk gönderi
-
-HUGO ile yazdığım ilk gönderi.
+[Hugo](https://gohugo.io/getting-started/quick-start/) ile yeni blog sayfam.
 
 ```go
 func main() {
