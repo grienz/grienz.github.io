@@ -1,12 +1,12 @@
-# grienz.dev
+# grienz.github.io
 
 <a href="https://gohugo.io/"><img src="https://raw.githubusercontent.com/gohugoio/gohugoioTheme/master/static/images/hugo-logo-wide.svg?sanitize=true" alt="Hugo" width="365"></a>
 
 [![hugo-papermod](https://img.shields.io/badge/Hugo--Themes-@PaperMod-blue)](https://themes.gohugo.io/themes/hugo-papermod/)
 
-[![website](https://img.shields.io/github/actions/workflow/status/grienz/grienz.dev/deploy.yml?label=grienz.dev&logo=hugo&logoColor=default)](https://grienz.dev)
+[![website](https://img.shields.io/github/actions/workflow/status/grienz/grienz.github.io/deploy.yml?label=grienz.github.io&logo=hugo&logoColor=default)](https://grienz.github.io/)
 
-[![website](https://img.shields.io/website?url=https%3A%2F%2Fgrienz.dev)](https://grienz.dev)
+[![website](https://img.shields.io/website?url=https%3A%2F%2Fgrienz.github.io)](https://grienz.github.io/)
 
 ---
 
@@ -31,4 +31,4 @@ Hugo is designed to work well for any kind of website including blogs, tumbles, 
 
 ---
 
-[![GitHub](https://img.shields.io/github/license/grienz/grienz.dev)](https://github.com/grienz/grienz.dev/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/grienz/grienz.github.io)](https://github.com/grienz/grienz.github.io/blob/master/LICENSE)
