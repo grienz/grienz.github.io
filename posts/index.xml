@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on grienz</title>
-    <link>https://grienz.dev/posts/</link>
+    <link>https://grienz.github.io/posts/</link>
     <description>Recent content in Posts on grienz</description>
     <image>
       <title>grienz</title>
-      <url>https://grienz.dev</url>
-      <link>https://grienz.dev</link>
+      <url>https://grienz.github.io/logo.png</url>
+      <link>https://grienz.github.io/logo.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2023 23:46:45 +0300</lastBuildDate><atom:link href="https://grienz.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Apr 2023 23:46:45 +0300</lastBuildDate><atom:link href="https://grienz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://grienz.dev/posts/first/</link>
+      <link>https://grienz.github.io/posts/first/</link>
       <pubDate>Sun, 09 Apr 2023 23:46:45 +0300</pubDate>
       
-      <guid>https://grienz.dev/posts/first/</guid>
+      <guid>https://grienz.github.io/posts/first/</guid>
       <description>Hugo with new blog page.
 func main() { fmt.Println(&amp;#34;hello&amp;#34;) } </description>
     </item>

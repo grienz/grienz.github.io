@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on grienz</title>
-    <link>https://grienz.dev/tr/tags/</link>
+    <link>https://grienz.github.io/tr/tags/</link>
     <description>Recent content in Tags on grienz</description>
     <image>
       <title>grienz</title>
-      <url>https://grienz.dev</url>
-      <link>https://grienz.dev</link>
+      <url>https://grienz.github.io/logo.png</url>
+      <link>https://grienz.github.io/logo.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2023 23:46:50 +0300</lastBuildDate><atom:link href="https://grienz.dev/tr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Apr 2023 23:46:50 +0300</lastBuildDate><atom:link href="https://grienz.github.io/tr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogging</title>
-      <link>https://grienz.dev/tr/tags/blogging/</link>
+      <link>https://grienz.github.io/tr/tags/blogging/</link>
       <pubDate>Sun, 09 Apr 2023 23:46:50 +0300</pubDate>
       
-      <guid>https://grienz.dev/tr/tags/blogging/</guid>
+      <guid>https://grienz.github.io/tr/tags/blogging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://grienz.dev/tr/tags/development/</link>
+      <link>https://grienz.github.io/tr/tags/development/</link>
       <pubDate>Sun, 09 Apr 2023 23:46:50 +0300</pubDate>
       
-      <guid>https://grienz.dev/tr/tags/development/</guid>
+      <guid>https://grienz.github.io/tr/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://grienz.dev/tr/tags/go/</link>
+      <link>https://grienz.github.io/tr/tags/go/</link>
       <pubDate>Sun, 09 Apr 2023 23:46:50 +0300</pubDate>
       
-      <guid>https://grienz.dev/tr/tags/go/</guid>
+      <guid>https://grienz.github.io/tr/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://grienz.dev/tr/tags/hugo/</link>
+      <link>https://grienz.github.io/tr/tags/hugo/</link>
       <pubDate>Sun, 09 Apr 2023 23:46:50 +0300</pubDate>
       
-      <guid>https://grienz.dev/tr/tags/hugo/</guid>
+      <guid>https://grienz.github.io/tr/tags/hugo/</guid>
       <description></description>
     </item>
     

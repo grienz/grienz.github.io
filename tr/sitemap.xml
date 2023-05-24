@@ -2,197 +2,196 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://grienz.dev/tr/about/</loc>
-    <lastmod>2023-04-10T00:30:48+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://grienz.dev/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://grienz.dev/tr/about/"
-                />
-  </url><url>
-    <loc>https://grienz.dev/tr/tags/blogging/</loc>
+    <loc>https://grienz.github.io/tr/tags/blogging/</loc>
     <lastmod>2023-04-09T23:46:50+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://grienz.dev/tags/blogging/"
+                href="https://grienz.github.io/tags/blogging/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://grienz.dev/tr/tags/blogging/"
+                href="https://grienz.github.io/tr/tags/blogging/"
                 />
   </url><url>
-    <loc>https://grienz.dev/tr/categories/</loc>
+    <loc>https://grienz.github.io/tr/categories/</loc>
     <lastmod>2023-04-09T23:46:50+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://grienz.dev/categories/"
+                href="https://grienz.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://grienz.dev/tr/categories/"
+                href="https://grienz.github.io/tr/categories/"
                 />
   </url><url>
-    <loc>https://grienz.dev/tr/tags/development/</loc>
+    <loc>https://grienz.github.io/tr/tags/development/</loc>
     <lastmod>2023-04-09T23:46:50+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://grienz.dev/tags/development/"
+                href="https://grienz.github.io/tags/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://grienz.dev/tr/tags/development/"
+                href="https://grienz.github.io/tr/tags/development/"
                 />
   </url><url>
-    <loc>https://grienz.dev/tr/categories/development/</loc>
+    <loc>https://grienz.github.io/tr/categories/development/</loc>
     <lastmod>2023-04-09T23:46:50+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://grienz.dev/categories/development/"
+                href="https://grienz.github.io/categories/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://grienz.dev/tr/categories/development/"
+                href="https://grienz.github.io/tr/categories/development/"
                 />
   </url><url>
-    <loc>https://grienz.dev/tr/tags/go/</loc>
+    <loc>https://grienz.github.io/tr/tags/go/</loc>
     <lastmod>2023-04-09T23:46:50+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://grienz.dev/tags/go/"
+                href="https://grienz.github.io/tags/go/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://grienz.dev/tr/tags/go/"
+                href="https://grienz.github.io/tr/tags/go/"
                 />
   </url><url>
-    <loc>https://grienz.dev/tr/</loc>
+    <loc>https://grienz.github.io/tr/</loc>
     <lastmod>2023-04-09T23:46:50+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://grienz.dev/"
+                href="https://grienz.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://grienz.dev/tr/"
+                href="https://grienz.github.io/tr/"
                 />
   </url><url>
-    <loc>https://grienz.dev/tr/tags/hugo/</loc>
+    <loc>https://grienz.github.io/tr/tags/hugo/</loc>
     <lastmod>2023-04-09T23:46:50+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://grienz.dev/tags/hugo/"
+                href="https://grienz.github.io/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://grienz.dev/tr/tags/hugo/"
+                href="https://grienz.github.io/tr/tags/hugo/"
                 />
   </url><url>
-    <loc>https://grienz.dev/tr/series/hugo-blog/</loc>
+    <loc>https://grienz.github.io/tr/series/hugo-blog/</loc>
     <lastmod>2023-04-09T23:46:50+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://grienz.dev/series/hugo-blog/"
+                href="https://grienz.github.io/series/hugo-blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://grienz.dev/tr/series/hugo-blog/"
+                href="https://grienz.github.io/tr/series/hugo-blog/"
                 />
   </url><url>
-    <loc>https://grienz.dev/tr/posts/first/</loc>
+    <loc>https://grienz.github.io/tr/posts/first/</loc>
     <lastmod>2023-04-09T23:46:50+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://grienz.dev/posts/first/"
+                href="https://grienz.github.io/posts/first/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://grienz.dev/tr/posts/first/"
+                href="https://grienz.github.io/tr/posts/first/"
                 />
   </url><url>
-    <loc>https://grienz.dev/tr/posts/</loc>
+    <loc>https://grienz.github.io/tr/posts/</loc>
     <lastmod>2023-04-09T23:46:50+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://grienz.dev/posts/"
+                href="https://grienz.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://grienz.dev/tr/posts/"
+                href="https://grienz.github.io/tr/posts/"
                 />
   </url><url>
-    <loc>https://grienz.dev/tr/series/</loc>
+    <loc>https://grienz.github.io/tr/series/</loc>
     <lastmod>2023-04-09T23:46:50+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://grienz.dev/series/"
+                href="https://grienz.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://grienz.dev/tr/series/"
+                href="https://grienz.github.io/tr/series/"
                 />
   </url><url>
-    <loc>https://grienz.dev/tr/tags/</loc>
+    <loc>https://grienz.github.io/tr/tags/</loc>
     <lastmod>2023-04-09T23:46:50+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://grienz.dev/tags/"
+                href="https://grienz.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://grienz.dev/tr/tags/"
+                href="https://grienz.github.io/tr/tags/"
                 />
   </url><url>
-    <loc>https://grienz.dev/tr/search/</loc>
+    <loc>https://grienz.github.io/tr/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://grienz.dev/search/"
+                href="https://grienz.github.io/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://grienz.dev/tr/search/"
+                href="https://grienz.github.io/tr/search/"
                 />
   </url><url>
-    <loc>https://grienz.dev/tr/archives/</loc>
+    <loc>https://grienz.github.io/tr/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://grienz.dev/archives/"
+                href="https://grienz.github.io/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://grienz.dev/tr/archives/"
+                href="https://grienz.github.io/tr/archives/"
+                />
+  </url><url>
+    <loc>https://grienz.github.io/tr/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grienz.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://grienz.github.io/tr/about/"
                 />
   </url>
 </urlset>

@@ -1,7 +1,5 @@
 User-agent: *
 
-Disallow: /about/
-
 Disallow: /tags/blogging/
 
 Disallow: /categories/
@@ -25,6 +23,8 @@ Disallow: /posts/
 Disallow: /series/
 
 Disallow: /tags/
+
+Disallow: /about/
 
 Disallow: /archives/
 
